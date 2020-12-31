@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CommandLineArgumentsExample": {
+      "commandName": "Project",
+      "commandLineArgs": "-s"
+    }
+  }
+}
